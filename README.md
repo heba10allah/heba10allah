@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Heba Allah Ibrahim</h1>
-<h3 align="center">Passionate about AI and Data Science & Student at faculty of computers and information science</h3>
+<h3 align="center">Passionate about AI and Data Science & Student at Faculty of Computers and Information Science</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=heba10allah&label=Profile%20views&color=0e75b6&style=flat" alt="heba10allah" />
+  <img src="https://komarev.com/ghpvc/?username=heba10allah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -10,10 +10,8 @@
 ### 🌱 I’m currently learning:
 - Machine learning algorithms  
 - Deep learning  
-- Computer vision  
+- Computer vision
 
-- 📁 All of my projects will be available soon  
-- 🧾 My CV will be added soon  
 - 📫 How to reach me: **hobaallah157@gamil.com**
 
 ---
@@ -36,11 +34,11 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats (Real-time):
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=heba10allah&show_icons=true&theme=radical" alt="heba10allah" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba10allah&layout=compact&theme=radical" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heba10allah&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba10allah&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
@@ -48,5 +46,5 @@
 ### 🏆 GitHub Trophies:
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=heba10allah&theme=dracula" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=heba10allah&theme=dracula" alt="GitHub Trophies" />
 </p>
