@@ -7,18 +7,21 @@
 
 ---
 
-### 🪴 I'm currently learning **Machine learning algorithms**
+### 🌱 I’m currently learning:
+- Machine learning algorithms  
+- Deep learning  
+- Computer vision  
 
 - 📁 All of my projects will be available soon  
-- 📫 How to reach me: **hobaallah157@gamil.com**  
-- 🧾 Know about my experiences (coming soon)
+- 🧾 My CV will be added soon  
+- 📫 How to reach me: **hobaallah157@gamil.com**
 
 ---
 
 ### 🔗 Connect with me:
 
 <p align="left">
-  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="twitter" /></a>
+  <a href="https://www.facebook.com/share/15BepvN8Ne/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="facebook" /></a>
   <a href="https://www.linkedin.com/in/hebaallah101159879/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="mailto:hobaallah157@gamil.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
