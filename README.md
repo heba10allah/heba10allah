@@ -15,12 +15,14 @@
 
 ---
 
+
 ### 🔗 Connect with me:
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/15BepvN8Ne/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hebaallah101159879/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hobaallah157@gamil.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/heba15allah)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?logo=codeforces&logoColor=white)](https://codeforces.com/profile/heba_allah)
 
 ---
 
